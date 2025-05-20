@@ -1,0 +1,9 @@
+username,user_id,email,validity,status,roleId,phone_number
+1234123,1234123,2373228083@qq.com,unblocked,pending,null,
+H·¢Ïã¿ËË¹,1234456,32484523867@qq.com,blocked,active,2,18340503748
+1234567,1234567,3047582191@qq.com,blocked,active,1,
+1234599,1234599,2375376296@qq.com,unblocked,pending,null,
+2222222,2222222,1215462341@qq.com,unblocked,active,2,
+2253280,2253280,Lixinyu.Lu22@student.xjtlu.edu.cn,unblocked,active,2,
+4444444,4444444,494657111@qq.com,blocked,active,2,
+5201314,5201314,haotian.zeng22@student.xjtlu.edu.cn,unblocked,pending,null,
